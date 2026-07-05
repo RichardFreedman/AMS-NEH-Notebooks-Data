@@ -1,50 +1,8 @@
 {
-  "Bach_BWV_0784": {
-    "title": "Invention No. 13 in A minor",
-    "composer": "Bach, Johann Sebastian",
-    "mei_path": "MEI Sample/Bach_BWV_0784.mei",
-    "num_parts": 2
-  },
-  "Bach_BWV_0785": {
-    "title": "Invention No. 14 in B-flat major",
-    "composer": "Bach, Johann Sebastian",
-    "mei_path": "MEI Sample/Bach_BWV_0785.mei",
-    "num_parts": 2
-  },
-  "Bach_BWV_0778": {
-    "title": "Invention No. 7 in E minor",
-    "composer": "Bach, Johann Sebastian",
-    "mei_path": "MEI Sample/Bach_BWV_0778.mei",
-    "num_parts": 2
-  },
-  "Bach_BWV_0779": {
-    "title": "Invention No. 8 in F major",
-    "composer": "Bach, Johann Sebastian",
-    "mei_path": "MEI Sample/Bach_BWV_0779.mei",
-    "num_parts": 2
-  },
-  "Bach_BWV_0786": {
-    "title": "Invention No. 15 in B minor",
-    "composer": "Bach, Johann Sebastian",
-    "mei_path": "MEI Sample/Bach_BWV_0786.mei",
-    "num_parts": 2
-  },
-  "Morley_1595_08_Fire_and_ligthning": {
-    "title": "Fire and lightning",
-    "composer": "Morley, Thomas",
-    "mei_path": "MEI Sample/Morley_1595_08_Fire_and_ligthning.mei",
-    "num_parts": 2
-  },
   "Morley_1595_01_Go_ye_my_canzonettes": {
     "title": "Go ye my canzonettes",
     "composer": "Morley, Thomas",
     "mei_path": "MEI Sample/Morley_1595_01_Go_ye_my_canzonettes.mei",
-    "num_parts": 2
-  },
-  "Bach_BWV_0782": {
-    "title": "Invention No. 11 in G minor",
-    "composer": "Bach, Johann Sebastian",
-    "mei_path": "MEI Sample/Bach_BWV_0782.mei",
     "num_parts": 2
   },
   "Morley_1595_02_When_lo_by_break": {
@@ -53,52 +11,10 @@
     "mei_path": "MEI Sample/Morley_1595_02_When_lo_by_break.mei",
     "num_parts": 2
   },
-  "Bartok_Mikrokosmos_091": {
-    "title": "Mikrokosmos No. 91: Chromatic Invention (1)",
-    "composer": "Bart\u00f3k, B\u00e9la",
-    "mei_path": "MEI Sample/Bartok_Mikrokosmos_091.mei",
-    "num_parts": 2
-  },
-  "Bach_BWV_0783": {
-    "title": "Invention No. 12 in A major",
-    "composer": "Bach, Johann Sebastian",
-    "mei_path": "MEI Sample/Bach_BWV_0783.mei",
-    "num_parts": 2
-  },
-  "Bach_BWV_0781": {
-    "title": "Invention No. 10 in G major",
-    "composer": "Bach, Johann Sebastian",
-    "mei_path": "MEI Sample/Bach_BWV_0781.mei",
-    "num_parts": 2
-  },
-  "Bartok_Mikrokosmos_092": {
-    "title": "Mikrokosmos No. 92: Chromatic Invention (2)",
-    "composer": "Bart\u00f3k, B\u00e9la",
-    "mei_path": "MEI Sample/Bartok_Mikrokosmos_092.mei",
-    "num_parts": 2
-  },
-  "Bach_BWV_0780": {
-    "title": "Invention No. 9 in F minor",
-    "composer": "Bach, Johann Sebastian",
-    "mei_path": "MEI Sample/Bach_BWV_0780.mei",
-    "num_parts": 2
-  },
-  "Bartok_Mikrokosmos_036": {
-    "title": "Mikrokosmos No. 36: Free Canon",
-    "composer": "Bart\u00f3k, B\u00e9la",
-    "mei_path": "MEI Sample/Bartok_Mikrokosmos_036.mei",
-    "num_parts": 2
-  },
   "Bartok_Mikrokosmos_022": {
     "title": "Mikrokosmos No. 22: Imitation and Counterpoint",
     "composer": "Bart\u00f3k, B\u00e9la",
     "mei_path": "MEI Sample/Bartok_Mikrokosmos_022.mei",
-    "num_parts": 2
-  },
-  "Morley_1595_12_Flora_wilt_thou": {
-    "title": "Flora wilt thou",
-    "composer": "Morley, Thomas",
-    "mei_path": "MEI Sample/Morley_1595_12_Flora_wilt_thou.mei",
     "num_parts": 2
   },
   "Bartok_Mikrokosmos_023": {
@@ -107,28 +23,10 @@
     "mei_path": "MEI Sample/Bartok_Mikrokosmos_023.mei",
     "num_parts": 2
   },
-  "Bartok_Mikrokosmos_037": {
-    "title": "Mikrokosmos No. 37: In Lydian Mode",
-    "composer": "Bart\u00f3k, B\u00e9la",
-    "mei_path": "MEI Sample/Bartok_Mikrokosmos_037.mei",
-    "num_parts": 2
-  },
   "Morley_1595_03_Sweet_nymph": {
     "title": "Sweet nymph",
     "composer": "Morley, Thomas",
     "mei_path": "MEI Sample/Morley_1595_03_Sweet_nymph.mei",
-    "num_parts": 2
-  },
-  "Bartok_Mikrokosmos_035": {
-    "title": "Mikrokosmos No. 35: Chorale",
-    "composer": "Bart\u00f3k, B\u00e9la",
-    "mei_path": "MEI Sample/Bartok_Mikrokosmos_035.mei",
-    "num_parts": 2
-  },
-  "Morley_1595_06_Lo_hear_another": {
-    "title": "Lo hear another",
-    "composer": "Morley, Thomas",
-    "mei_path": "MEI Sample/Morley_1595_06_Lo_hear_another.mei",
     "num_parts": 2
   },
   "Bartok_Mikrokosmos_024": {
@@ -137,82 +35,10 @@
     "mei_path": "MEI Sample/Bartok_Mikrokosmos_024.mei",
     "num_parts": 2
   },
-  "Bartok_Mikrokosmos_030": {
-    "title": "Mikrokosmos No. 30: Canon at the Lower Fifth",
-    "composer": "Bart\u00f3k, B\u00e9la",
-    "mei_path": "MEI Sample/Bartok_Mikrokosmos_030.mei",
-    "num_parts": 2
-  },
-  "Bartok_Mikrokosmos_031": {
-    "title": "Mikrokosmos No. 31: Little Dance in Canon Form",
-    "composer": "Bart\u00f3k, B\u00e9la",
-    "mei_path": "MEI Sample/Bartok_Mikrokosmos_031.mei",
-    "num_parts": 2
-  },
-  "Bartok_Mikrokosmos_025": {
-    "title": "Mikrokosmos No. 25: Imitation and Inversion (2)",
-    "composer": "Bart\u00f3k, B\u00e9la",
-    "mei_path": "MEI Sample/Bartok_Mikrokosmos_025.mei",
-    "num_parts": 2
-  },
-  "Morley_1595_11_I_should_for_griefe": {
-    "title": "I should for griefe",
-    "composer": "Morley, Thomas",
-    "mei_path": "MEI Sample/Morley_1595_11_I_should_for_griefe.mei",
-    "num_parts": 2
-  },
-  "Morley_1595_05_Miraculous_loves": {
-    "title": "Miraculous love's wounding",
-    "composer": "Morley, Thomas",
-    "mei_path": "MEI Sample/Morley_1595_05_Miraculous_loves.mei",
-    "num_parts": 2
-  },
-  "Bartok_Mikrokosmos_026": {
-    "title": "Mikrokosmos No. 26: Repetition (2)",
-    "composer": "Bart\u00f3k, B\u00e9la",
-    "mei_path": "MEI Sample/Bartok_Mikrokosmos_026.mei",
-    "num_parts": 2
-  },
-  "Bartok_Mikrokosmos_028": {
-    "title": "Mikrokosmos No. 28: Canon at the Octave",
-    "composer": "Bart\u00f3k, B\u00e9la",
-    "mei_path": "MEI Sample/Bartok_Mikrokosmos_028.mei",
-    "num_parts": 2
-  },
-  "Bartok_Mikrokosmos_029": {
-    "title": "Mikrokosmos No. 29: Imitation Reflected",
-    "composer": "Bart\u00f3k, B\u00e9la",
-    "mei_path": "MEI Sample/Bartok_Mikrokosmos_029.mei",
-    "num_parts": 2
-  },
-  "Bartok_Mikrokosmos_039": {
-    "title": "Mikrokosmos No. 39: Staccato and Legato (2, Canon)",
-    "composer": "Bart\u00f3k, B\u00e9la",
-    "mei_path": "MEI Sample/Bartok_Mikrokosmos_039.mei",
-    "num_parts": 2
-  },
   "Bach_BWV_0772": {
     "title": "Invention No. 1 in C major",
     "composer": "Bach, Johann Sebastian",
     "mei_path": "MEI Sample/Bach_BWV_0772.mei",
-    "num_parts": 2
-  },
-  "Morley_1595_04_I_go_before": {
-    "title": "I go before",
-    "composer": "Morley, Thomas",
-    "mei_path": "MEI Sample/Morley_1595_04_I_go_before.mei",
-    "num_parts": 2
-  },
-  "Morley_1595_07_Leave_now_mine_eyes": {
-    "title": "Leave now mine eyes",
-    "composer": "Morley, Thomas",
-    "mei_path": "MEI Sample/Morley_1595_07_Leave_now_mine_eyes.mei",
-    "num_parts": 2
-  },
-  "Bartok_Mikrokosmos_101": {
-    "title": "Mikrokosmos No. 101: Diminished Fifths",
-    "composer": "Bart\u00f3k, B\u00e9la",
-    "mei_path": "MEI Sample/Bartok_Mikrokosmos_101.mei",
     "num_parts": 2
   },
   "Bach_BWV_0773": {
@@ -221,58 +47,10 @@
     "mei_path": "MEI Sample/Bach_BWV_0773.mei",
     "num_parts": 2
   },
-  "Morley_1595_10_O_thou_that_art": {
-    "title": "O thou that art",
-    "composer": "Morley, Thomas",
-    "mei_path": "MEI Sample/Morley_1595_10_O_thou_that_art.mei",
-    "num_parts": 2
-  },
-  "Morley_1595_09_In_nets_of_golden": {
-    "title": "In nets of golden",
-    "composer": "Morley, Thomas",
-    "mei_path": "MEI Sample/Morley_1595_09_In_nets_of_golden.mei",
-    "num_parts": 2
-  },
-  "Bartok_Mikrokosmos_103": {
-    "title": "Mikrokosmos No. 103: Minor and Major",
-    "composer": "Bart\u00f3k, B\u00e9la",
-    "mei_path": "MEI Sample/Bartok_Mikrokosmos_103.mei",
-    "num_parts": 2
-  },
   "Bach_BWV_0774": {
     "title": "Invention No. 3 in D major",
     "composer": "Bach, Johann Sebastian",
     "mei_path": "MEI Sample/Bach_BWV_0774.mei",
-    "num_parts": 2
-  },
-  "Bach_BWV_0775": {
-    "title": "Invention No. 4 in D minor",
-    "composer": "Bach, Johann Sebastian",
-    "mei_path": "MEI Sample/Bach_BWV_0775.mei",
-    "num_parts": 2
-  },
-  "Bach_BWV_0777": {
-    "title": "Invention No. 6 in E major",
-    "composer": "Bach, Johann Sebastian",
-    "mei_path": "MEI Sample/Bach_BWV_0777.mei",
-    "num_parts": 2
-  },
-  "Bartok_Mikrokosmos_104": {
-    "title": "Mikrokosmos No. 104: Wandering through the Keys",
-    "composer": "Bart\u00f3k, B\u00e9la",
-    "mei_path": "MEI Sample/Bartok_Mikrokosmos_104.mei",
-    "num_parts": 2
-  },
-  "Bach_BWV_0776": {
-    "title": "Invention No. 5 in E-flat major",
-    "composer": "Bach, Johann Sebastian",
-    "mei_path": "MEI Sample/Bach_BWV_0776.mei",
-    "num_parts": 2
-  },
-  "Bartok_Mikrokosmos_058": {
-    "title": "Mikrokosmos No. 58: In Oriental Style",
-    "composer": "Bart\u00f3k, B\u00e9la",
-    "mei_path": "MEI Sample/Bartok_Mikrokosmos_058.mei",
     "num_parts": 2
   }
 }
